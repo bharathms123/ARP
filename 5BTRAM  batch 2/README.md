@@ -4,14 +4,15 @@ Configuration and Analysis of Address Resolution Protocol (ARP)
    
 To construct a simple Local Area Network (LAN) using Cisco Packet Tracer to understand, observe, 
 and verify the operational process of the Address Resolution Protocol (ARP).
-3. Problem Statement
+
+2. Problem Statement
 
 The task is to build a simulated network consisting of personal computers and a switch. This network 
 will be used to generate traffic (using the ping command) that initiates the ARP process. The primary 
 objective is to capture and analyze the ARP request and reply mechanism to understand how IP 
 addresses are mapped to physical MAC addresses within a local network.
 
-4. Scope of the Solution
+3. Scope of the Solution
    
 This project is confined to a simulated environment using Cisco Packet Tracer. The scope includes:
 • Creating a single, flat LAN topology (one broadcast domain).
@@ -21,7 +22,7 @@ This project is confined to a simulated environment using Cisco Packet Tracer. T
 The project does not cover routing, inter-VLAN communication, or ARP processes in more complex 
 network architectures.
 
-6. Required Components to Develop Solution
+4. Required Components to Develop Solution
    
 Software
 • Simulation Environment: Cisco Packet Tracer (Version 8.2.1 or newer recommended)
